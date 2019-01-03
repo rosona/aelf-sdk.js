@@ -7,8 +7,8 @@
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>AElf.JSDK</PackageId>
-    <Authors>AElf</Authors>
+    <PackageId>Rosona.JSDK</PackageId>
+    <Authors>Rosona</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 </Project>
